@@ -1,0 +1,8 @@
+{
+  "name": "lab16-app",
+  "private": true,
+  "scripts": {
+    "dev": "python3 -m http.server 4321",
+    "preview": "python3 -m http.server 4321"
+  }
+}
